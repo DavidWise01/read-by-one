@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-READ_BY_ONE",
+  "name": "READ BY ONE · RB1",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦READ BY ONE · RB1:read-by-one:1fb856⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "1fb856c9e604c8424529b632caa9ccf45c175e04b47dcdb0f6f67cb952f03af4",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
